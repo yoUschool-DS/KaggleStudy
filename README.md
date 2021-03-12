@@ -3,7 +3,16 @@
 Kaggle KR 캐글 스터디 커널 커리큘럼을 참고하여 필사<br>
 https://kaggle-kr.tistory.com/32
 
-> 2021/03/06 ~ 03/26 (3주간) : Tabular data 필사 진행
+> 2021/03/06 ~ 04/03 (3주간) : Tabular data 필사 진행<br>
+> `Study` 매주 토요일 PM 10:30 ~ at Zoom 💻
+
+| 날짜 	|  분류	|  Data |
+|-     	|-	               |-	                        |
+| 20.03.20 	| Classification 	| 아래 Classification으로 분류된 Data 중 택 1 	|
+| 20.03.27  	| Regression 	| 1st level. New York City Taxi Trip Duration 	|
+| 20.04.03  	| Regression 	| 2nd level. Zillow Prize: Zillow’s Home Value Prediction (Zestimate)	|
+| 4월 중 	| 금융/회귀/시계열	|  [제주 신용카드 빅데이터 경진대회](https://dacon.io/competitions/official/235615/overview/description/)	|
+
 
 <h2>Binary classification : Tabular data</h2>
 <h3><a href="https://www.kaggle.com/c/titanic">1st level. Titanic: Machine Learning from Disaster</a></h3>
